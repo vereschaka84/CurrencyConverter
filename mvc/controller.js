@@ -7,7 +7,7 @@ export default class Controller {
 		this.currencyList = [
 			{
 				name: 'USD',
-				value: 0
+				value: 2
 			},
 			{
 				name: 'EUR',
